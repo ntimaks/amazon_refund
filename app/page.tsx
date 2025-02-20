@@ -12,7 +12,7 @@ export default function Home() {
         <section className="mb-12">
           <h2 className="text-3xl font-semibold text-blue-700 mb-4">Why Choose Us?</h2>
           <ul className="list-disc list-inside space-y-2 text-gray-700">
-            <li>Expert knowledge of Amazon's refund policies</li>
+            <li>Expert knowledge of Amazon&apos;s refund policies</li>
             <li>Dedicated team to handle your refund cases</li>
             <li>Maximize your refund potential</li>
             <li>Save time and resources for your business</li>
